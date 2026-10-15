@@ -1,5 +1,5 @@
 # SmartSolutions-facens
-# QuadraMarca - Plataforma Inteligente de Gestão e Agendamento Esportivo
+# BoraQuadra - Plataforma Inteligente de Gestão e Agendamento Esportivo
 
 **Curso:** Análise e Desenvolvimento de Sistemas (2º Semestre)  
 **Líder do Grupo:** Guilherme Yamamoto de Souza  
