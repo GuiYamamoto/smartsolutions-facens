@@ -1,5 +1,5 @@
 # SmartSolutions-facens
-# BoraQuadra - Plataforma Inteligente de Gestão e Agendamento Esportivo
+# UpQuadra - Plataforma Inteligente de Gestão e Agendamento Esportivo
 
 **Curso:** Análise e Desenvolvimento de Sistemas (2º Semestre)  
 **Líder do Grupo:** Guilherme Yamamoto de Souza  
@@ -10,14 +10,14 @@
 ## 1. Visão Geral do Projeto
 A prática de esportes amadores como futebol society, vôlei de areia e beach tennis vem crescendo nas cidades brasileiras, mas o processo de encontrar e reservar quadras ainda é realizado de forma manual, via mensagens de WhatsApp ou anotações em papel. 
 
-O **QuadraMarca** é uma plataforma digital no modelo marketplace/SaaS que conecta de forma direta e automatizada proprietários de arenas esportivas e praticantes de esportes. Inspirada em soluções de mercado e consolidada na lógica de intermediação digital, a solução visa otimizar a experiência do atleta e simplificar a gestão operacional dos donos de quadras.
+O **UpQuadra** é uma plataforma digital no modelo marketplace/SaaS que conecta de forma direta e automatizada proprietários de arenas esportivas e praticantes de esportes. Inspirada em soluções de mercado e consolidada na lógica de intermediação digital, a solução visa otimizar a experiência do atleta e simplificar a gestão operacional dos donos de quadras.
 
 ---
 
 ## 2. Objetivos
 
 ### 2.1 Objetivo Geral
-Desenvolver a plataforma **QuadraMarca**, otimizando o processo de busca, reserva e gestão de quadras esportivas por meio de uma experiência automatizada e personalizada para atletas amadores, aspirantes a profissional, times em formação e proprietários de arenas.
+Desenvolver a plataforma **UpQuadra**, otimizando o processo de busca, reserva e gestão de quadras esportivas por meio de uma experiência automatizada e personalizada para atletas amadores, aspirantes a profissional, times em formação e proprietários de arenas.
 
 ### 2.2 Objetivos Específicos
 - **Visualização em Tempo Real:** Consultar e realizar reservas imediatas dos horários disponíveis nas quadras cadastradas.
@@ -32,7 +32,7 @@ Desenvolver a plataforma **QuadraMarca**, otimizando o processo de busca, reserv
 
 ## 3. Alinhamento com os Objetivos de Desenvolvimento Sustentável (ODS - ONU)
 
-| ODS | Nome | Aplicação no QuadraMarca |
+| ODS | Nome | Aplicação no UpQuadra |
 |---|---|---|
 | **ODS 3** | Saúde e Bem-Estar | Estimula a prática regular de esportes e o combate ao sedentarismo ao reduzir barreiras de tempo e agendamento. |
 | **ODS 8** | Trabalho Decente e Crescimento Econômico | Impulsiona pequenos e médios empreendedores do setor esportivo através da automação financeira e aumento na taxa de ocupação. |
@@ -43,7 +43,7 @@ Desenvolver a plataforma **QuadraMarca**, otimizando o processo de busca, reserv
 ## 4. Justificativa e Impacto
 Com cerca de 45,9% da população brasileira declarada sedentária (segundo dados do IBGE e do Ministério do Esporte), a falta de tempo e a burocracia na reserva de espaços de lazer surgem como entraves à prática de atividades físicas. 
 
-O QuadraMarca atua na eliminação dessas fricções. Do ponto de vista acadêmico, consolida conceitos essenciais de engenharia de software, engenharia de requisitos, modelagem de banco de dados e arquitetura de sistemas.
+O UpQuadra atua na eliminação dessas fricções. Do ponto de vista acadêmico, consolida conceitos essenciais de engenharia de software, engenharia de requisitos, modelagem de banco de dados e arquitetura de sistemas.
 
 ---
 
